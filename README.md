@@ -1,4 +1,8 @@
+
 # CsvUploadClientApp
+Facilitate user to import csv file. Filterout the valids and invalids record. User can save the valids records to BE using Rest API service.
+Please clone and use this service as to save data into database.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
