@@ -15,7 +15,7 @@
       />
     </div>
   </div>
-  <div style="float: right; margin: 10px">
+  <div class="submit-btn">
     <a
       href="javascript:;"
       *ngIf="ValidRecords.length > 0"
@@ -56,7 +56,8 @@
 
   <div class="container" *ngIf="inValidRecords.length > 0">
     <h6 class="text-color-red">
-      Please correct the below invalid records  as per Csv instrucitons and upload again!
+      Please correct the below invalid records as per Csv instrucitons and
+      upload again!
     </h6>
     <h6>CSV Instructions:</h6>
     <ul>

@@ -1,5 +1,5 @@
 .back-ground-red {
-    background-color: red;
+  background-color: red;
 }
 .text-color {
   color: green;
@@ -7,13 +7,18 @@
 .text-color-red {
   color: red;
 }
+.submit-btn {
+  float: "right";
+  margin: 10px;
+}
 p {
-    font-family: Lato;
-  }
-  .table,.container{
-    margin-top:20px; 
-  }
-  .btn{
-    margin-right:20px; 
-    margin-top: 20px;
-  }
+  font-family: Lato;
+}
+.table,
+.container {
+  margin-top: 20px;
+}
+.btn {
+  margin-right: 20px;
+  margin-top: 20px;
+}
